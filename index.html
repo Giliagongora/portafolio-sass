@@ -9,6 +9,7 @@
     <!-- <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css"> -->
     <!--Import materialize.css-->
     <link type="text/css" href="css/materialize.min.css"  media="screen,projection"/>
+    <link href="sass/materialize-src/fonts/roboto/">
     <link type="text/css" href="sass/materialize-src/sass/materialize.scss"  media="screen,projection"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.0/css/materialize.min.css">
 
@@ -18,96 +19,103 @@
 </head>
 <body>
 
-	
+<div class="navbar-fixed">	
 	<nav class="navOne">
 
       <ul id="nav-mobile" class="left hide-on-med-and-down">
-        <li><a href="sass.html" ><img src="img/logo_new.png" alt=""></a></li>
+        <li><a href="sass.html"><img class="valign-wrapper" src="img/logo_new.png" alt=""></a></li>
         <li>|</li>
         <li><a href="badges.html">Theme: <span>Hestia ProTF</span></a></li>
         <li>|</li>
-        <li><a href="collapsible.html"><i class="material-icons">desktop_mac phone_android phone_iphone</i></a></li>
+        <li><a href="collapsible.html"><i class="material-icons">desktop_mac stay_current_landscape phone_android stay_primary_landscape phone_iphone</i></a></li>
+        <li>|</li>
       </ul>
 
      	<a href="#" data-activates="mobile-demo" class="button-collapse"></a>
      	 <ul class="right hide-on-med-and-down">
-	        <li><a href="sass.html">Sass</a></li>
-	        <li><a href="badges.html">Components</a></li>
-	        <li><a href="collapsible.html">Javascript</a></li>
-	        <li><a href="mobile.html">Mobile</a></li>
+	        <li><a id="btnOne" class="waves-effect waves-light btn" >ADMIN DEMO</a></li>
+	        <li class="show-on-small" ><a id="btnTwo" class="waves-effect waves-light btn">DOWNLOAD THIS THEME</a></li>
+	        <li><a href="mobile.html">X</a></li>
       	</ul>
       	<ul class="side-nav" id="mobile-demo">
-	        <li><a href="sass.html">Sass</a></li>
 	        <li><a href="badges.html">Components</a></li>
-	        <li><a href="collapsible.html">Javascript</a></li>
-	        <li><a href="mobile.html">Mobile</a></li>
+	        <li><a href="collapsible.html"><a class="waves-effect waves-light btn">button</a></a></li>
+	        <li><a href="mobile.html">X</a></li>
      	 </ul>
     	</div>
   	</nav>
-        
+</div>        
 
 	<!-- Dropdown Structure -->
-	<ul id="dropdown1" class="dropdown-content">
+	<ul id="dropdown1" class="dropdown-content" class="left-align">
 		<li><a href="#"><i class="material-icons">access_time</i>1 minute setup</a></li>
-        <li><a href="#"><i class="material-icons">local_airport</i>Fast Updates & Support</a></li>
-        <li><a href="#"><i class="material-icons">local_airport</i>Live Customizer</a></li>
-        <li><a href="#"><i class="material-icons">local_airport</i>Video Tutorials</a></li>
-        <li><a href="#"><i class="material-icons">local_airport</i>Custom Backgrounds</a></li>
-        <li><a href="#"><i class="material-icons">local_airport</i>Responsive Design</a></li>
-        <li><a href="#"><i class="material-icons">local_airport</i></i>Optimized for Speed</a></li>
-        <li><a href="#"><i class="material-icons">local_airport</i>Translation & RTL Ready</a></li>
-        <li><a href="#"><i class="material-icons">local_airport</i>SEO Optimized</a></li>
-        <li><a href="#"><i class="material-icons">local_airport</i>Drag-and-Drop Builder</a></li>
-        <li><a href="#"><i class="material-icons">local_airport</i>WooCommerce Ready</a></li>
+        <li><a href="#"><i class="fa fa-rocket icono-drop" aria-hidden="true"></i>Fast Updates & Support</a></li>
+        <li><a href="#"><i class="fa fa-eye icono-drop" aria-hidden="true"></i>Live Customizer</a></li>
+        <li><a href="#"><i class="fa fa-video-camera icono-drop" aria-hidden="true"></i>Video Tutorials</a></li>
+        <li><a href="#"><i class="fa fa-picture-o icono-drop" aria-hidden="true"></i>Custom Backgrounds</a></li>
+        <li><a href="#"><i class="fa fa-mobile icono-drop" aria-hidden="true"></i>Responsive Design</a></li>
+        <li><a href="#"><i class="fa fa-fast-forward icono-drop" aria-hidden="true"></i>Optimized for Speed</a></li>
+        <li><a href="#"><i class="fa fa-flag icono-drop" aria-hidden="true"></i>Translation & RTL Ready</a></li>
+        <li><a href="#"><i class="fa fa-search icono-drop" aria-hidden="true"></i>SEO Optimized</a></li>
+        <li><a href="#"><i class="fa fa-arrows icono-drop" aria-hidden="true"></i>Drag-and-Drop Builder</a></li>
+        <li><a href="#"><i class="fa fa-money icono-drop" aria-hidden="true"></i>iWooCommerce Ready</a></li>
     </ul>
 
     	<!-- Dropdown Structure -->
 	<ul id="dropdown2" class="dropdown-content">
-		<li><a href="#"><i class="material-icons">access_time</i>Features</a></li>
-        <li><a href="#"><i class="material-icons">local_airport</i>About</a></li>
-        <li><a href="#"><i class="material-icons">local_airport</i>Our team</a></li>
-        <li><a href="#"><i class="material-icons">local_airport</i>Price</a></li>
-        <li><a href="#"><i class="material-icons">local_airport</i>Testimonials</a></li>
-        <li><a href="#"><i class="material-icons">local_airport</i>Subscribe</a></li>
-        <li><a href="#"><i class="material-icons">local_airport</i></i>Blog</a></li>
-        <li><a href="#"><i class="material-icons">local_airport</i>Contact</a></li>
+		<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i>Features</a></li>
+        <li><a href="#"><i class="fa fa-info-circle" aria-hidden="true"></i>About</a></li>
+        <li><a href="#"><i class="fa fa-users" aria-hidden="true"></i>Our team</a></li>
+        <li><a href="#"><i class="fa fa-usd" aria-hidden="true"></i>Price</a></li>
+        <li><a href="#"><i class="fa fa-commenting" aria-hidden="true"></i>Testimonials</a></li>
+        <li><a href="#"><i class="fa fa-newspaper-o" aria-hidden="true"></i>Subscribe</a></li>
+        <li><a href="#"><i class="fa fa-pencil-square-o" aria-hidden="true"></i>Blog</a></li>
+        <li><a href="#"><i class="fa fa-envelope-o" aria-hidden="true"></i>Contact</a></li>
     </ul>
-
+<div class="navbar-fixed">
 	<nav class="navTwo">
 	  <div class="nav-wrapper">
-	    <a href="#!" class="brand-logo">HESTIA PRO</a>
+	    <a href="#!" class="brand-logo" >HESTIA PRO</a>
+	    <a href="#" data-activates="mobile-demo" class="button-collapse "><i class="material-icons">menu</i></a>
+      <ul class="right hide-on-med-and-down">
 	    <ul class="right hide-on-med-and-down">
 
 	      <li><a class="dropdown-button" href="#!" data-activates="dropdown1"><i class="material-icons left">cloud</i>FEATURES<i class="material-icons right">arrow_drop_down</i></a></li>
 
 	      <li><a class="dropdown-button" href="#!" data-activates="dropdown2"><i class="material-icons left">album</i>SECTIONS<i class="material-icons right">arrow_drop_down</i></a></li>
 
-	      <li><a href="badges.html">SHOP</a></li>
-	      <li><a href="badges.html">BLOG</a></li>
+	      <li><a href="badges.html"><i class="material-icons left">shopping_basket</i>SHOP</a></li>
+	      <li><a href="badges.html"><i class="material-icons left">description</i>BLOG</a></li>
 	      <li><a href="badges.html"><i class="material-icons left">email</i>CONTACT</a></li>
-	      <li><a class="waves-effect waves-light btn">BUY NOW</a></li>
+	      <li id="btnFix"><a class="btn"><i class="fa fa-shopping-cart" aria-hidden="true"></i>BUY NOW</a></li>
 
 	    </ul>
 	  </div>
 	</nav>
-<!--	
-	<section class="uno">
+</div>
 
-		  <div class="carousel carousel-slider center" data-indicators="true">
-		    <div class="carousel-fixed-item center">
-		      <a class="btn waves-effect white grey-text darken-text-2">button</a>
-		    </div>
-		    <div class="carousel-item red white-text" href="#one!">
-		      <img src="img/img_slider_1.jpg" alt="">
-		    </div>
-		    <div class="carousel-item amber white-text" href="#two!">
-		      <img src="img/img_slider_2.jpg" alt="">
-		    </div>
-		  </div>
-        		
+	<section class="uno">
+		 <div class="slider">
+		    <ul class="slides">
+		      <li>
+		        <img src="img/img_slider_1.jpg"> <!-- random image -->
+		        <div class="caption center-align">
+		          <h3>Simple & Awesome</h3>
+		          <h5 class="light grey-text text-lighten-3">Beautiful, Elegantly Coded</h5>
+		        </div>
+		      </li>
+		      <li>
+		        <img src="img/img_slider_2.jpg"> <!-- random image -->
+		        <div class="caption center-align">
+		          <h3>Slick Material Design</h3>
+		          <h5 class="light grey-text text-lighten-3">Beautiful, Elegantly Coded, One-Page WordPress Theme for Busines</h5>
+		        </div>
+		      </li>
+		    </ul>
+		  </div>        		
 	</section>
 
-	<section class="two center-align">
+	<section class="two" class="center-align">
 		<div class="container">
 			<div class="row">
 				<div class="col s12 m9 l9 offset-l1">
@@ -118,17 +126,17 @@
 			</div>
 			<div class="row">
 				<div class="col s12 m12 l4">
-					<i class="material-icons">apps</i>
+					<i class="material-icons" id="mIconUno">apps</i>
 					<h4>Responsive</h4>
 					<p>Lorem ipsum dolor sit amet elit do, consectetur adipiscing, sed  eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 				</div>
 				<div class="col s12 m12 l4">
-					<i class="material-icons">list</i>
+					<i class="material-icons" id="mIconDos">list</i>
 					<h4>Quality</h4>
 					<p>Lorem ipsum dolor sit amet elit do, consectetur adipiscing, sed  eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 				</div>
 				<div class="col s12 m12 l4">
-					<i class="material-icons">reorder</i>
+					<i class="material-icons" id="mIconTres">reorder</i>
 					<h4>Support</h4>
 					<p>Lorem ipsum dolor sit amet elit do, consectetur adipiscing, sed eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 				</div>				
@@ -136,10 +144,10 @@
 		</div>		
 	</section>
 
-	<section class="three">
+	<section class="three" id="backCity">
 		<div class="container">
 			<div class="row">
-				<div class="col s12 m12 l7">
+				<div class="col s12 m12 l6">
 					<h2>Who are we now</h2>
 					<p>Ideate integrate food-truck agile ideate thinker-maker-doer user story intuitive hacker integrate workflow Steve Jobs. Steve Jobs pair programming food-truck big data long shadow SpaceTeam agile agile affordances.</p>
 					<p>User centered design food-truck experiential minimum viable product human-centered design prototype viral quantitative vs. qualitative.</p>
@@ -152,19 +160,20 @@
 
 			</div>
 			<div class="row">
-				<div class="col s12 m12 l8 offset-s2">
+				<div class="col s12 m12 l8 offset-l2">
 					<div class="video-container">
-       					 <iframe width="853" height="480" src="//www.youtube.com/watch?v=pYOJNOJfJxU" frameborder="0" allowfullscreen></iframe>
+       					 <iframe width="677" height="381" src="https://www.youtube.com/embed/pYOJNOJfJxU?showinfo=0" frameborder="0" allowfullscreen></iframe>
       				</div>
 				</div>
 			</div>
 		</div>
 	</section>
 
-	<section class="fourProducts">
+
+	<section class="fourProducts" class="center-align">
 		<div class="container">
 			<div class="row">
-				<div class="col s12 m12 l8 offset-s2">
+				<div class="col s12 m12 l8 offset-s2" >
 					<h2>Products</h2>
 					<h5>Showcase your products in this beautiful shop section.</h5>
 				</div>
@@ -201,7 +210,7 @@
 			</div>
 		</div>		
 	</section>
-
+<!--	
 	<section class="fivePortafolio">
 		<div class="container">
 			<div class="row">
@@ -572,6 +581,7 @@
     <!--Import jQuery before materialize.js-->
     <script type="text/javascript" src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.0/js/materialize.min.js"></script>
+	<script src="https://use.fontawesome.com/be0dd1e218.js"></script>
 	<script src="assets/js/main.js"></script>
 
 </body>

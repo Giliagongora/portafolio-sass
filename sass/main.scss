@@ -3,9 +3,126 @@
 @import '_mixin.scss';
 @import '_bases.scss';
 
+body{
+	background-color: #e5e5e5;
+}
+.navbar-fixed{
+	height: 55px;
+}
+
 .navOne{
 	background-color: #f9f9f9;
+	height: 60px;
+    line-height: 53px;
+
+	img{
+		margin-left: 2%;
+		margin-top: 30%;
+	}
+	a#btnOne{
+		background-color: #60a2ca;
+		color: white;
+	}
+	a#btnTwo{
+		background-color: #ff7f66;
+		color: white;
+	}
 	ul, li, a{
 		color: black;
+		font-weight: 600;
+	}
+	span{
+		color: #179ac4;
+	}
+}
+.navTwo{
+    background-color: black;
+    
+    .brand-logo{
+    	font-size: 15px;
+    	margin-left: 8%;
+    }
+	ul li a{
+	font-size: 12px;
+
+	}
+	.dropdown-content li a i {
+		width: 200px;
+	    display: inline;
+	    margin: 0 0px 0 0;
+	    width: 24px;
+}
+	ul li a i{
+		font-size: 14px;
+	}
+	.btn{
+		background-color: #e91e63;
+	}
+}
+.uno{
+	.carousel img{
+	/*	bottom: 241px; */
+    	position: relative;
+    	 background-position:center top;
+	}
+	ul li a .btn{
+		bottom: 241px;
+	}
+	ul li{
+		bottom: 241px
+	}
+}
+.two{
+	background-color: #ffffff;
+	margin-left: 3%;
+	margin-right: 3%;
+	padding-top: 10%;
+	text-align: center;
+	h5{
+		color: #999;
+		font-size: 18px;
+		font-weight: 300;
+	}
+	i{
+		font-size: 500%;
+		padding-top: 5%;
+	}
+	#mIconUno{
+		color: #e91e63;
+	}
+	#mIconDos{
+		color: #00bcd4;
+	}
+	#mIconTres{
+		color: #4caf50;
+	}
+	h4{
+		font-weight: 700;
+		font-size: 130%;
+	}
+	p{
+		color: #999;
+		padding-bottom: 15%;
+	}	
+}
+.three{
+	background-image: url(../img/img_city.jpg);
+	h2{
+		font-family: "Roboto Slab","Times New Roman",serif;
+    	font-weight: 700
+	}
+	p{
+		font-size: 17.5px;
+    	line-height: 27.125px;
+	}
+	img{
+		height: auto;
+		width: 115%;
+	}
+}
+.fourProducts{
+	img{
+		height: auto;
+		width: 100%;
 	}
 }

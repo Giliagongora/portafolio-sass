@@ -6772,9 +6772,97 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   stroke-linecap: round;
   /*shape-rendering: crispEdges;*/ }
 
+body {
+  background-color: #e5e5e5; }
+
+.navbar-fixed {
+  height: 55px; }
+
 .navOne {
-  background-color: #f9f9f9; }
+  background-color: #f9f9f9;
+  height: 60px;
+  line-height: 53px; }
+  .navOne img {
+    margin-left: 2%;
+    margin-top: 30%; }
+  .navOne a#btnOne {
+    background-color: #60a2ca;
+    color: white; }
+  .navOne a#btnTwo {
+    background-color: #ff7f66;
+    color: white; }
   .navOne ul, .navOne li, .navOne a {
-    color: black; }
+    color: black;
+    font-weight: 600; }
+  .navOne span {
+    color: #179ac4; }
+
+.navTwo {
+  background-color: black; }
+  .navTwo .brand-logo {
+    font-size: 15px;
+    margin-left: 8%; }
+  .navTwo ul li a {
+    font-size: 12px; }
+  .navTwo .dropdown-content li a i {
+    width: 200px;
+    display: inline;
+    margin: 0 0px 0 0;
+    width: 24px; }
+  .navTwo ul li a i {
+    font-size: 14px; }
+  .navTwo .btn, .navTwo .btn-large {
+    background-color: #e91e63; }
+
+.uno .carousel img {
+  /*	bottom: 241px; */
+  position: relative;
+  background-position: center top; }
+.uno ul li a .btn, .uno ul li a .btn-large {
+  bottom: 241px; }
+.uno ul li {
+  bottom: 241px; }
+
+.two {
+  background-color: #ffffff;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding-top: 10%;
+  text-align: center; }
+  .two h5 {
+    color: #999;
+    font-size: 18px;
+    font-weight: 300; }
+  .two i {
+    font-size: 500%;
+    padding-top: 5%; }
+  .two #mIconUno {
+    color: #e91e63; }
+  .two #mIconDos {
+    color: #00bcd4; }
+  .two #mIconTres {
+    color: #4caf50; }
+  .two h4 {
+    font-weight: 700;
+    font-size: 130%; }
+  .two p {
+    color: #999;
+    padding-bottom: 15%; }
+
+.three {
+  background-image: url(../img/img_city.jpg); }
+  .three h2 {
+    font-family: "Roboto Slab","Times New Roman",serif;
+    font-weight: 700; }
+  .three p {
+    font-size: 17.5px;
+    line-height: 27.125px; }
+  .three img {
+    height: auto;
+    width: 115%; }
+
+.fourProducts img {
+  height: auto;
+  width: 100%; }
 
 /*# sourceMappingURL=main.css.map */

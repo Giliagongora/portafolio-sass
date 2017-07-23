@@ -6854,8 +6854,7 @@ body {
     padding-bottom: 15%; }
 
 .three {
-  background-image: url(../img/img_city.jpg);
-  background-color: url(../img/img_city.jpg);
+  background-image: "../@import url(../img/img_city.jpg)";
   background-color: #ffffff;
   margin-left: 3%;
   margin-right: 3%;
@@ -7038,6 +7037,69 @@ body {
     color: #777;
     font-size: 80%; }
   .eight p {
+    font-weight: 400;
+    color: #999;
+    font-size: 90%; }
+
+.nineSuscribete {
+  background-image: "../@import url(.../img/about.jpg)";
+  background-color: white;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding-top: 4%;
+  padding-bottom: 4%; }
+  .nineSuscribete div.card.white.darken-1 {
+    border-radius: 10px 10px 10px 10px;
+    padding: 0% 5% 0% 5%;
+    margin: -2% 15% 0% 15%;
+    margin-bottom: 10%; }
+  .nineSuscribete h2 {
+    font-family: "Roboto Slab","Times New Roman",serif;
+    font-weight: 800;
+    color: #3c4858;
+    font-size: 200%; }
+  .nineSuscribete h5 {
+    font-family: "Roboto Slab","Times New Roman",serif;
+    font-weight: 400;
+    color: #3c4858;
+    font-size: 140%;
+    color: #999;
+    padding-bottom: 5%; }
+  .nineSuscribete a {
+    margin-top: 13%; }
+
+.ten {
+  background-color: white;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding-top: 4%;
+  padding-bottom: 4%; }
+  .ten img {
+    height: auto;
+    width: 100%;
+    border-radius: 10px 10px 10px 10px; }
+  .ten h2 {
+    font-family: "Roboto Slab","Times New Roman",serif;
+    font-weight: 800;
+    color: #3c4858;
+    font-size: 200%; }
+  .ten h5 {
+    font-family: "Roboto Slab","Times New Roman",serif;
+    font-weight: 400;
+    color: #3c4858;
+    font-size: 140%;
+    color: #999;
+    padding-bottom: 5%; }
+  .ten h6 {
+    font-weight: 800;
+    color: #777;
+    font-size: 80%; }
+  .ten h4 {
+    font-family: "Roboto Slab","Times New Roman",serif;
+    font-weight: 800;
+    color: #3c4858;
+    font-size: 140%; }
+  .ten p {
     font-weight: 400;
     color: #999;
     font-size: 90%; }

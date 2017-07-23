@@ -64,6 +64,8 @@ body{
 	/*	bottom: 241px; */
     	position: relative;
     	 background-position:center top;
+	padding-top: 5%;
+	padding-bottom: 5%;	
 	}
 	ul li a .btn{
 		bottom: 241px;
@@ -78,6 +80,8 @@ body{
 	margin-right: 3%;
 	padding-top: 10%;
 	text-align: center;
+	padding-top: 5%;
+	padding-bottom: 5%;	
 	h5{
 		color: #999;
 		font-size: 18px;
@@ -111,6 +115,8 @@ body{
 	background-color: #ffffff;
 	margin-left: 3%;
 	margin-right: 3%;
+	padding-top: 5%;
+	padding-bottom: 5%;	
 	h2{
 		font-family: "Roboto Slab","Times New Roman",serif;
     	font-weight: 700
@@ -131,6 +137,8 @@ body{
 	background-color: #f0f0f0;
 	margin-left: 3%;
 	margin-right: 3%;
+	padding-top: 5%;
+	padding-bottom: 5%;	
 	img{
 		height: auto;
 		width: 100%;
@@ -187,4 +195,143 @@ body{
 	background-color: white;
 	margin-left: 3%;
 	margin-right: 3%;
+	padding-top: 5%;
+	padding-bottom: 5%;	
+	h2{
+		font-family: "Roboto Slab","Times New Roman",serif;
+    	font-weight: 800;
+    	color: #3c4858;
+    	font-size: 200%;
+    	margin-top: 12%;
+	}
+	h5{
+		font-family: "Roboto Slab","Times New Roman",serif;
+    	font-weight: 400;
+    	color: #3c4858;
+    	font-size: 120%;
+    	color: #999;
+	}
+	img{
+		width: 100%;
+		height: auto;
+		border-radius: 10px 10px 10px 10px;
+
+	}
+}
+.sixTeam{
+	background-color: white;
+	margin-left: 3%;
+	margin-right: 3%;
+	padding-top: 5%;
+	padding-bottom: 5%;		
+	h2{
+		font-family: "Roboto Slab","Times New Roman",serif;
+    	font-weight: 800;
+    	color: #3c4858;
+    	font-size: 250%;
+    	margin-top: 12%;		
+	}
+	h5{
+		font-family: "Roboto Slab","Times New Roman",serif;
+    	font-weight: 400;
+    	color: #3c4858;
+    	font-size: 120%;
+    	color: #999;
+    	padding-bottom: 5%;		
+	}
+	img{
+		height: 120%;
+		width: 100%;
+		margin-bottom: 25%;
+	}
+	h4{
+		font-family: "Roboto Slab","Times New Roman",serif;
+    	font-weight: 800;
+    	color: #3c4858;
+    	font-size: 150%;	
+	}
+	h6{
+		font-weight: 400;
+		color: #777;
+		font-size: 90%
+	}
+	p{
+		color: #999;
+		font-size: 400;
+		font-size: 90%;
+	}
+	i{
+		margin: 0% 9% 0% 9%;
+	}
+}
+.seven{
+	background-color: #f0f0f0;
+	margin-left: 3%;
+	margin-right: 3%;
+	padding-top: 5%;
+	padding-bottom: 5%;	
+	h2{
+		font-family: "Roboto Slab","Times New Roman",serif;
+    	font-weight: 800;
+    	color: #3c4858;
+    	font-size: 180%;
+	}
+	p{
+		font-weight: 400;
+		color: #777;
+		font-size: 90%
+	}
+	div.card{
+		border-radius: 10px 10px 10px 10px;
+		padding: 5% 10% 5% 10%;
+		margin: 0% 0% 0% 0%;
+		margin-bottom: 30%;
+
+	}		h6{
+			font-weight: 800;
+			color: #777;
+			font-size: 90%
+		}
+}
+.eight{
+	background-color: white;
+	margin-left: 3%;
+	margin-right: 3%;
+	padding-top: 4%;
+	padding-bottom: 4%;	
+	h2{
+		font-family: "Roboto Slab","Times New Roman",serif;
+    	font-weight: 800;
+    	color: #3c4858;
+    	font-size: 200%;		
+	}
+	h5{
+		font-family: "Roboto Slab","Times New Roman",serif;
+    	font-weight: 400;
+    	color: #3c4858;
+    	font-size: 140%;
+    	color: #999;
+    	padding-bottom: 5%;			
+	}
+	img{
+		height: auto;
+		width: 30%;
+
+	}		
+	h4{
+		font-family: "Roboto Slab","Times New Roman",serif;
+    	font-weight: 800;
+    	color: #3c4858;
+    	font-size: 140%;			
+	}
+	h6{
+		font-weight: 800;
+		color: #777;
+		font-size: 80%		
+	}
+	p{
+		font-weight: 400;
+		color: #999;
+		font-size: 90%		
+	}
 }

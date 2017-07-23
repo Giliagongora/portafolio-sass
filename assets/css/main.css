@@ -6817,7 +6817,9 @@ body {
 .uno .carousel img {
   /*	bottom: 241px; */
   position: relative;
-  background-position: center top; }
+  background-position: center top;
+  padding-top: 5%;
+  padding-bottom: 5%; }
 .uno ul li a .btn, .uno ul li a .btn-large {
   bottom: 241px; }
 .uno ul li {
@@ -6828,7 +6830,9 @@ body {
   margin-left: 3%;
   margin-right: 3%;
   padding-top: 10%;
-  text-align: center; }
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 5%; }
   .two h5 {
     color: #999;
     font-size: 18px;
@@ -6854,7 +6858,9 @@ body {
   background-color: url(../img/img_city.jpg);
   background-color: #ffffff;
   margin-left: 3%;
-  margin-right: 3%; }
+  margin-right: 3%;
+  padding-top: 5%;
+  padding-bottom: 5%; }
   .three h2 {
     font-family: "Roboto Slab","Times New Roman",serif;
     font-weight: 700; }
@@ -6870,7 +6876,9 @@ body {
 .fourProducts {
   background-color: #f0f0f0;
   margin-left: 3%;
-  margin-right: 3%; }
+  margin-right: 3%;
+  padding-top: 5%;
+  padding-bottom: 5%; }
   .fourProducts img {
     height: auto;
     width: 100%;
@@ -6915,6 +6923,123 @@ body {
 .fivePortafolio {
   background-color: white;
   margin-left: 3%;
-  margin-right: 3%; }
+  margin-right: 3%;
+  padding-top: 5%;
+  padding-bottom: 5%; }
+  .fivePortafolio h2 {
+    font-family: "Roboto Slab","Times New Roman",serif;
+    font-weight: 800;
+    color: #3c4858;
+    font-size: 200%;
+    margin-top: 12%; }
+  .fivePortafolio h5 {
+    font-family: "Roboto Slab","Times New Roman",serif;
+    font-weight: 400;
+    color: #3c4858;
+    font-size: 120%;
+    color: #999; }
+  .fivePortafolio img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px 10px 10px 10px; }
+
+.sixTeam {
+  background-color: white;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding-top: 5%;
+  padding-bottom: 5%; }
+  .sixTeam h2 {
+    font-family: "Roboto Slab","Times New Roman",serif;
+    font-weight: 800;
+    color: #3c4858;
+    font-size: 250%;
+    margin-top: 12%; }
+  .sixTeam h5 {
+    font-family: "Roboto Slab","Times New Roman",serif;
+    font-weight: 400;
+    color: #3c4858;
+    font-size: 120%;
+    color: #999;
+    padding-bottom: 5%; }
+  .sixTeam img {
+    height: 120%;
+    width: 100%;
+    margin-bottom: 25%; }
+  .sixTeam h4 {
+    font-family: "Roboto Slab","Times New Roman",serif;
+    font-weight: 800;
+    color: #3c4858;
+    font-size: 150%; }
+  .sixTeam h6 {
+    font-weight: 400;
+    color: #777;
+    font-size: 90%; }
+  .sixTeam p {
+    color: #999;
+    font-size: 400;
+    font-size: 90%; }
+  .sixTeam i {
+    margin: 0% 9% 0% 9%; }
+
+.seven {
+  background-color: #f0f0f0;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding-top: 5%;
+  padding-bottom: 5%; }
+  .seven h2 {
+    font-family: "Roboto Slab","Times New Roman",serif;
+    font-weight: 800;
+    color: #3c4858;
+    font-size: 180%; }
+  .seven p {
+    font-weight: 400;
+    color: #777;
+    font-size: 90%; }
+  .seven div.card {
+    border-radius: 10px 10px 10px 10px;
+    padding: 5% 10% 5% 10%;
+    margin: 0% 0% 0% 0%;
+    margin-bottom: 30%; }
+  .seven h6 {
+    font-weight: 800;
+    color: #777;
+    font-size: 90%; }
+
+.eight {
+  background-color: white;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding-top: 4%;
+  padding-bottom: 4%; }
+  .eight h2 {
+    font-family: "Roboto Slab","Times New Roman",serif;
+    font-weight: 800;
+    color: #3c4858;
+    font-size: 200%; }
+  .eight h5 {
+    font-family: "Roboto Slab","Times New Roman",serif;
+    font-weight: 400;
+    color: #3c4858;
+    font-size: 140%;
+    color: #999;
+    padding-bottom: 5%; }
+  .eight img {
+    height: auto;
+    width: 30%; }
+  .eight h4 {
+    font-family: "Roboto Slab","Times New Roman",serif;
+    font-weight: 800;
+    color: #3c4858;
+    font-size: 140%; }
+  .eight h6 {
+    font-weight: 800;
+    color: #777;
+    font-size: 80%; }
+  .eight p {
+    font-weight: 400;
+    color: #999;
+    font-size: 90%; }
 
 /*# sourceMappingURL=main.css.map */

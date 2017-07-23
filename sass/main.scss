@@ -2,3 +2,10 @@
 @import '_variables.scss';
 @import '_mixin.scss';
 @import '_bases.scss';
+
+.navOne{
+	background-color: #f9f9f9;
+	ul, li, a{
+		color: black;
+	}
+}

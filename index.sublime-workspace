@@ -1,0 +1,842 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"padin",
+				"padding-top"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"_",
+				"_bases.scss"
+			],
+			[
+				"bootstr",
+				"_bootstrap.scss"
+			],
+			[
+				"local",
+				"localStorage.getItem('mail').value"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"fle",
+				"inline-flex"
+			],
+			[
+				"mtada",
+				"metadata-recipe\t(template-recipe.html)"
+			],
+			[
+				"item",
+				"item-recipe\t(template-recipe.html)"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"lis",
+				"list-recipes\t(index.html)"
+			],
+			[
+				"email",
+				"email-container\t(index.html)"
+			],
+			[
+				"form",
+				"form-signup\t(index.html)"
+			],
+			[
+				"pado",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"magi",
+				"margin-bottom"
+			],
+			[
+				"palabra",
+				"palabra2"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"padid",
+				"padding-bottom"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"documem",
+				"document.getElementById(\"historial"
+			],
+			[
+				"set",
+				"setAttribute"
+			],
+			[
+				"Guardar",
+				"guardarDatos"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"co",
+				"col-lg-12"
+			],
+			[
+				"mari",
+				"margin-bottom"
+			],
+			[
+				"ini",
+				"inline-flex"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"sta",
+				"flex-start"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"fe",
+				"flex"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"flex-co",
+				"flex-container\t(index.html)"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"pDD",
+				"padding-top"
+			],
+			[
+				"section",
+				"section-two"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ul",
+				"url()"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"pic",
+				"picture1\t(index.html)"
+			],
+			[
+				"aling",
+				"text-align"
+			],
+			[
+				"na",
+				"name\tAttr"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"flex",
+				"flexcontainer"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"m",
+				"middle"
+			],
+			[
+				"moda",
+				"modalListo\t(index.html)"
+			],
+			[
+				"documen",
+				"document.getElementsByClassName(\"box-services"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"no",
+				"notebook"
+			],
+			[
+				"docu",
+				"document.getElementById(\"lista\").appendChild"
+			],
+			[
+				"whi",
+				"white"
+			],
+			[
+				"hi",
+				"height\t(main.css)"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"ec",
+				"ecf7bf"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"au",
+				"auto\t(main.css)"
+			],
+			[
+				"w",
+				"width\tAttr"
+			],
+			[
+				"parraf",
+				"parrafosElementos\t(index.html)"
+			],
+			[
+				"mag",
+				"margin"
+			],
+			[
+				"pandas",
+				"pandasFotos\t(index.html)"
+			],
+			[
+				"borde-co",
+				"border-color"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"fot",
+				"font-size-adjust"
+			],
+			[
+				"bord",
+				"border-box"
+			],
+			[
+				"alin",
+				"align-content"
+			],
+			[
+				"boder",
+				"border"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"ti",
+				"tipo-de-te"
+			],
+			[
+				"boto",
+				"boton_texto"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"bton",
+				"botontexto"
+			],
+			[
+				"ca",
+				"caja"
+			],
+			[
+				"create",
+				"createTextNode"
+			],
+			[
+				"caja",
+				"cajaNueva\t(index.html)"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"abo",
+				"absolute"
+			],
+			[
+				"rotate",
+				"rotateX"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"cu",
+				"cubic-bezier"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"prod",
+				"producto"
+			],
+			[
+				"comp",
+				"computadores"
+			],
+			[
+				"com",
+				"computadores"
+			],
+			[
+				"pro",
+				"productos"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"ho",
+				"hobbies1"
+			],
+			[
+				"op",
+				"opcion2"
+			],
+			[
+				"o",
+				"opcion1"
+			],
+			[
+				"pele",
+				"pelea2"
+			],
+			[
+				"inn",
+				"info.innerHTML"
+			],
+			[
+				"ata",
+				"atak"
+			],
+			[
+				"opcio",
+				"opcionSeleccionada"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"nu",
+				"num2"
+			],
+			[
+				"nom",
+				"nombreApellido"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 184.0,
+		"last_filter": "sass",
+		"selected_items":
+		[
+			[
+				"sass",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"package control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 39 - Introducción a SASS/portafolio-sass/sass/main.scss",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 39 - Introducción a SASS/portafolio-sass/sass/_bases.scss",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 39 - Introducción a SASS/portafolio-sass/sass/_variables.scss",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 39 - Introducción a SASS/portafolio-sass/assets/css/main.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 39 - Introducción a SASS/portafolio-sass/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 39 - Introducción a SASS/portafolio-sass/sass/_mixin.scss",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 39 - Introducción a SASS/portafolio-sass/assets/js/main.js",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 40 - Intermediate Concepts/grid - ejercicio guiado/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 40 - Intermediate Concepts/grid - ejercicio guiado/sass/main.scss",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 40 - Intermediate Concepts/grid - ejercicio guiado/assets/css/main.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 40 - Intermediate Concepts/grid - ejercicio guiado/sass/_variables.scss",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 40 - Intermediate Concepts/grid - ejercicio guiado/sass/_mixin.scss",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 40 - Intermediate Concepts/grid - ejercicio guiado/sass/_bases.scss",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 39 - Introducción a SASS/pratt_sass/css/main.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 39 - Introducción a SASS/pratt_sass/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 40 - Intermediate Concepts/grid - ejercicio guiado/assets/main.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 40 - Intermediate Concepts/grid - ejercicio guiado/assets/main.js",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 39 - Introducción a SASS/pratt_sass/sass/_bases.scss",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 39 - Introducción a SASS/pratt_sass/sass/_mixin.scss",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 39 - Introducción a SASS/pratt_sass/sass/_variables.scss",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 39 - Introducción a SASS/pratt_sass/sass/main.scss",
+		"/C/Users/Gilia/AppData/Roaming/Sublime Text 3/Packages/User/AppleScript.sublime-settings",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 39 - Introducción a SASS/pratt_sass/.sass-cache/27331635f956b1b46671b1e3bed4d76cabdf8406/main.scssc",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 38 - proyecto final/trans-lab/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 38 - proyecto final/trans-lab/perfil.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 38 - proyecto final/trans-lab/js/pwd.js",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 38 - proyecto final/trans-lab/js/main.js",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 38 - proyecto final/trans-lab/js/ajax.js",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 38 - proyecto final/trans-lab/calculartarifa.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 38 - proyecto final/trans-lab/versaldo.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 38 - proyecto final/trans-lab/preguntas.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 38 - proyecto final/trans-lab/indexsaldo.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 38 - proyecto final/trans-lab/calculartarifa.index",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 37 - promises/ejercicio promises/assets/main.js",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 37 - promises/ejercicio promises/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 36 - Ajax y API Calls/Nueva carpeta/dribbble-lab-correction/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 36 - Ajax y API Calls/Nueva carpeta/dribbble-lab-correction/assets/css/profile.css",
+		"/C/Users/Gilia/Desktop/kat/main.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 36 - Ajax y API Calls/dribbble-lab/index.html",
+		"/C/Users/Gilia/Desktop/kat/main.js",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 36 - Ajax y API Calls/dribbble-lab/assets/css/style.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 36 - Ajax y API Calls/nivelacion-js-jquery/js/script-index.js",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 36 - Ajax y API Calls/nivelacion-js-jquery/js/script-recipe.js",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 36 - Ajax y API Calls/nivelacion-js-jquery/recipe.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 36 - Ajax y API Calls/nivelacion-js-jquery/templates/template-recipe.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 36 - Ajax y API Calls/nivelacion-js-jquery/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 36 - Ajax y API Calls/giphy - ejercicio guiado/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 36 - Ajax y API Calls/giphy - ejercicio guiado/assets/css/style.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 36 - Ajax y API Calls/giphy - ejercicio guiado/assets/js/main.js",
+		"/C/Users/Gilia/Desktop/Nueva carpeta (2)/Nueva carpeta (2)/lyft-app/input-code.html",
+		"/C/Users/Gilia/Desktop/Nueva carpeta (2)/Nueva carpeta (2)/lyft-app/assets/js/input-code.js",
+		"/C/Users/Gilia/Desktop/Nueva carpeta (2)/Nueva carpeta (2)/lyft-app/sign.html",
+		"/C/Users/Gilia/Desktop/Nueva carpeta (2)/lyft-app-copy/assets/js/main.js",
+		"/C/Users/Gilia/Desktop/Nueva carpeta (2)/Nueva carpeta (2)/lyft-app/assets/css/style-imput-code.css",
+		"/C/Users/Gilia/Desktop/fran/carpeta sin título 4/input-code.html",
+		"/C/Users/Gilia/Desktop/Nueva carpeta (2)/Nueva carpeta/lyft-app/sign.html",
+		"/C/Users/Gilia/Desktop/Nueva carpeta (2)/Nueva carpeta/lyft-app/assets/js/input-code.js",
+		"/C/Users/Gilia/Desktop/Nueva carpeta (2)/Nueva carpeta/lyft-app/assets/js/main.js",
+		"/C/Users/Gilia/Desktop/fran/carpeta sin título 4/input-code.js",
+		"/C/Users/Gilia/Desktop/Nueva carpeta (2)/Nueva carpeta/lyft-app/sign-up-usuario.html",
+		"/C/Users/Gilia/Desktop/Nueva carpeta (2)/lyft-app-copy/sign.html",
+		"/C/Users/Gilia/Desktop/Nueva carpeta (2)/lyft-app/sign.html",
+		"/C/Users/Gilia/Desktop/Nueva carpeta (2)/lyft-app/assets/js/main.js",
+		"/C/Users/Gilia/Desktop/lyft-app/assets/js/main.js",
+		"/C/Users/Gilia/Desktop/lyft-app/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 35 - Eventos con jQuery/EJERCICIO EVALUADO - EVENTOS CON JQUERY/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 34 - Manejo del DOM con jQuery/bicis-jquery/js/main.js",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 35 - Eventos con jQuery/EJERCICIO EVALUADO - EVENTOS CON JQUERY - copia/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 35 - Eventos con jQuery/EJERCICIO EVALUADO - EVENTOS CON JQUERY/assets/css/style.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 34 - Manejo del DOM con jQuery/bicis-jquery/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 34 - Manejo del DOM con jQuery/bicis-jquery/css/registro.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 34 - Manejo del DOM con jQuery/bicis-jquery/js/jquery-3.1.1.min.js",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 35 - Eventos con jQuery/EJERCICIO EVALUADO - EVENTOS CON JQUERY/assets/js/main.js",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 34 - Manejo del DOM con jQuery/todo-jquery/assets/js/main.js",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 34 - Manejo del DOM con jQuery/todo-jquery/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 34 - Manejo del DOM con jQuery/todo-jquery/assets/css/main.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 34 - Manejo del DOM con jQuery/ForoBunny/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 34 - Manejo del DOM con jQuery/ForoBunny/assets/css/main.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 1 - js - recuperativo/Desarrollo de ejercicios",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 1 - js - recuperativo/plazti js fundamentos/triangulo_8473dd4a-8193-42dc-9a40-b0a30c736719.js",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 1 - js - recuperativo/plazti js fundamentos/Gokú o Superman.js",
+		"/C/Users/Gilia/Desktop/Laboratoria/Leccion 28 - FRAMEWORKS CSS/responsive-pratt - enunciado/assets/css/style.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/Leccion 28 - FRAMEWORKS CSS/responsive-pratt - enunciado/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 30 - Proyecto Maquetado - copia/culinary-lab/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 32 - Proyecto final de sprint/labcar/assets/js/app.js",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 32 - Proyecto final de sprint/labcar/assets/css/main.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 32 - Proyecto final de sprint/labcar/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 30 - Proyecto Maquetado - copia/culinary-lab/assets/css/style.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/LECCIÓN 31 - API HTML5/DRAG AND DROP - EJERCICIO EVALUADO/assets/js/main.js",
+		"/C/Users/Gilia/Desktop/Laboratoria/LECCIÓN 31 - API HTML5/DRAG AND DROP - EJERCICIO EVALUADO/assets/css/main.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/LECCIÓN 31 - API HTML5/DRAG AND DROP - EJERCICIO EVALUADO/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/LECCIÓN 31 - API HTML5/DRAG AND DROP - EJERCICIO EVALUADO/assets/js/main.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/LECCIÓN 31 - API HTML5/easy-bike/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/LECCIÓN 31 - API HTML5/easy-vreco/assets/css/main.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/LECCIÓN 31 - API HTML5/easy-vreco/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/LECCIÓN 31 - API HTML5/easy-vreco/assets/js/app.js",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 32 - Proyecto final de sprint/labcar/assets/css/iconos/style.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/LECCIÓN 31 - API HTML5/comentarios_fotolog/js/main.js",
+		"/C/Users/Gilia/Desktop/ejempliz/main.js",
+		"/C/Users/Gilia/Desktop/Laboratoria/LECCIÓN 31 - API HTML5/easy-bike/assets/js/app.js",
+		"/C/Users/Gilia/Desktop/ejempliz/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/LECCIÓN 31 - API HTML5/easy-bike/assets/css/main.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/LECCIÓN 31 - API HTML5/easy-vreco/assets/js/main.js",
+		"/C/Users/Gilia/Desktop/Laboratoria/LECCIÓN 31 - API HTML5/comentarios_fotolog/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/LECCIÓN 31 - API HTML5/comentarios_fotolog/css/main.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/LECCIÓN 31 - API HTML5/localstorage - guiado/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/LECCIÓN 31 - API HTML5/localstorage - guiado/assets/css/style.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/LECCIÓN 31 - API HTML5/localstorage - guiado/assets/js/main.js",
+		"/C/Users/Gilia/Desktop/Laboratoria/LECCIÓN 31 - API HTML5/sessionstorage - guiado/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/LECCIÓN 31 - API HTML5/sessionstorage - guiado/assets/js/main.js",
+		"/C/Users/Gilia/Desktop/Laboratoria/LECCIÓN 31 - API HTML5/sessionstorage - guiado/assets/css/style.css",
+		"/C/Users/Gilia/Desktop/freelancer-flexbox/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 26 - FLEXBOX/freelancer-flexbox/assets/css/main.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 26 - FLEXBOX/freelancer-flexbox/index.html",
+		"/C/Users/Gilia/Desktop/freelancer-flexbox/assets/css/main.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 26 - FLEXBOX/freelancer-flexbox/assets/css/common.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 30 - Proyecto Maquetado - copia/culinary-lab/assets/js/main.js",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 29 - COMPONENTES DE BOOTSTRAP/save-the-koala-vol2/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 30 - Proyecto Maquetado/style.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 30 - Proyecto Maquetado/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 30 - Proyecto Maquetado/main.js",
+		"/C/Users/Gilia/Desktop/Laboratoria/Lección 27 - ENFOQUE DE DISEÑO/bunny-love/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/Leccion 28 - FRAMEWORKS CSS/responsive-pratt - enunciado/main.js",
+		"/C/Users/Gilia/Desktop/Laboratoria/Leccion 28 - FRAMEWORKS CSS/responsive-pratt - enunciado/style.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/FRAMEWORKS CSS/save-the-koala/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/FRAMEWORKS CSS/save-the-koala/css/style.css",
+		"/C/Users/Gilia/Desktop/Laboratoria/ENFOQUE DE DISEÑO/menu-laboratoria/index.html",
+		"/C/Users/Gilia/Desktop/Laboratoria/ENFOQUE DE DISEÑO/menu-laboratoria/assets/js/main.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"block",
+			"new",
+			" {",
+			"{\n",
+			";\n",
+			"0px",
+			"0",
+			"0px",
+			"%;\n",
+			"Pokemon",
+			">\n",
+			"\");",
+			"*/\n",
+			"\n<"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -6850,7 +6850,11 @@ body {
     padding-bottom: 15%; }
 
 .three {
-  background-image: url(../img/img_city.jpg); }
+  background-image: url(../img/img_city.jpg);
+  background-color: url(../img/img_city.jpg);
+  background-color: #ffffff;
+  margin-left: 3%;
+  margin-right: 3%; }
   .three h2 {
     font-family: "Roboto Slab","Times New Roman",serif;
     font-weight: 700; }
@@ -6860,9 +6864,57 @@ body {
   .three img {
     height: auto;
     width: 115%; }
+  .three div.video-container {
+    margin-bottom: 10%; }
 
-.fourProducts img {
-  height: auto;
-  width: 100%; }
+.fourProducts {
+  background-color: #f0f0f0;
+  margin-left: 3%;
+  margin-right: 3%; }
+  .fourProducts img {
+    height: auto;
+    width: 100%;
+    border-radius: 10px 10px 10px 10px;
+    margin-top: -10%; }
+  .fourProducts h2 {
+    margin-top: 10%;
+    font-size: 200%;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800; }
+  .fourProducts h5 {
+    color: #999;
+    font-size: 17.5px;
+    font-weight: 400;
+    padding-bottom: 3%; }
+  .fourProducts div.card.white.darken-1 {
+    border-radius: 10px 10px 10px 10px;
+    padding: 0% 5% 0% 5%;
+    margin: 0% 0% 0% 0%;
+    margin-bottom: 30%; }
+    .fourProducts div.card.white.darken-1 h6 {
+      color: #e91e63;
+      font-weight: 800;
+      font-size: 80%; }
+    .fourProducts div.card.white.darken-1 h4 {
+      color: #3c4858;
+      font-weight: 700;
+      font-size: 128%; }
+    .fourProducts div.card.white.darken-1 p {
+      color: #999;
+      font-weight: 400;
+      font-size: 80%;
+      line-height: 25.2px; }
+    .fourProducts div.card.white.darken-1 h4.price {
+      color: #3c4858;
+      padding-bottom: 10%;
+      font-weight: 400; }
+      .fourProducts div.card.white.darken-1 h4.price i {
+        margin-left: 40%;
+        font-size: 100%; }
+
+.fivePortafolio {
+  background-color: white;
+  margin-left: 3%;
+  margin-right: 3%; }
 
 /*# sourceMappingURL=main.css.map */

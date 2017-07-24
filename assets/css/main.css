@@ -7101,7 +7101,94 @@ body {
     font-size: 140%; }
   .ten p {
     font-weight: 400;
+    color: #f3f3f3;
+    font-size: 90%; }
+
+.eleven {
+  background-color: white;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding-top: 4%;
+  padding-bottom: 4%; }
+  .eleven h2 {
+    font-family: "Roboto Slab","Times New Roman",serif;
+    font-weight: 800;
+    color: #3c4858;
+    font-size: 200%; }
+  .eleven h5 {
+    font-family: "Roboto Slab","Times New Roman",serif;
+    font-weight: 400;
+    color: #3c4858;
+    font-size: 140%;
+    color: #999;
+    padding-bottom: 5%; }
+  .eleven p {
+    font-weight: 400;
+    color: #e4e4e4;
+    font-size: 90%; }
+  .eleven div.card.pink.darken-1 {
+    border-radius: 10px 10px 10px 10px;
+    padding: 4% 4% 4% 4%;
+    margin: 0% 0% 0% 0%;
+    margin-bottom: 10%; }
+    .eleven div.card.pink.darken-1 h4 {
+      color: white;
+      font-family: "Roboto Slab","Times New Roman",serif;
+      font-weight: 800;
+      font-size: 140%; }
+  .eleven div.card.white {
+    border-radius: 10px 10px 10px 10px;
+    padding: 5% 5% 5% 5%;
+    margin-top: -10%;
+    margin-right: -5%;
+    margin-left: -5%; }
+    .eleven div.card.white a.pink {
+      font-size: 85%; }
+
+.twelve {
+  background-color: #323437;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding-top: 4%;
+  padding-bottom: 4%; }
+  .twelve h5 {
+    font-family: "Roboto Slab","Times New Roman",serif;
+    font-weight: 700;
+    color: #3c4858;
+    font-size: 140%;
+    color: white; }
+  .twelve p {
     color: #999;
     font-size: 90%; }
+  .twelve ul li, .twelve a {
+    color: #999;
+    font-size: 80%; }
+  .twelve img {
+    height: auto;
+    width: 160%;
+    border-radius: 5px 5px 5px 5px; }
+  .twelve hr {
+    width: 90%; }
+
+.thirteen {
+  background-color: #323437;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding-top: 0%; }
+  .thirteen div {
+    display: inline;
+    padding-right: 35%; }
+  .thirteen ul {
+    display: inline-flex;
+    padding-right: 2%;
+    margin-left: 12%; }
+  .thirteen a {
+    font-weight: 700;
+    font-size: 70%;
+    margin-right: 1%; }
+  .thirteen #menu {
+    margin-right: 3%; }
+  .thirteen div.nav-wrapper a {
+    margin-right: 10%; }
 
 /*# sourceMappingURL=main.css.map */

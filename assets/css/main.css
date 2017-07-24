@@ -6854,7 +6854,7 @@ body {
     padding-bottom: 15%; }
 
 .three {
-  background-image: "../@import url(../img/img_city.jpg)";
+  background-image: url(../img/img_city.jpg);
   background-color: #ffffff;
   margin-left: 3%;
   margin-right: 3%;

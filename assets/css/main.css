@@ -6854,7 +6854,7 @@ body {
     padding-bottom: 15%; }
 
 .three {
-  background-image: url(../img/img_city.jpg);
+  background-image: url("../img/img_city.jpg");
   background-color: #ffffff;
   margin-left: 3%;
   margin-right: 3%;
@@ -7042,7 +7042,8 @@ body {
     font-size: 90%; }
 
 .nineSuscribete {
-  background-image: "../@import url(.../img/about.jpg)";
+  background-image: '../@import url(".../img/about.jpg")';
+  background-image: url("../img/about.jpg");
   background-color: white;
   margin-left: 3%;
   margin-right: 3%;
